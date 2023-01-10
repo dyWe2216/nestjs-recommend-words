@@ -1,0 +1,2 @@
+### 조회
+GET http://localhost:3000/es/index
